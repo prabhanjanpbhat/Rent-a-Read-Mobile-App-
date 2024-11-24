@@ -1,25 +1,10 @@
 # Rent-a-Read-Mobile-App-
-Rent-a-Read is an innovative mobile application built using FlutterFlow and integrated with Firebase to provide a seamless platform for renting engineering books. Designed with students and professionals in mind, the app simplifies access to academic resources by offering a hassle-free way to rent books at affordable rates.
+Rent-a-Read is an innovative mobile application built using FlutterFlow and integrated with Firebase to provide a seamless platform for renting engineering books. Designed with students and professionals in mind, the app simplifies access to academic resources by offering a hassle-free way to rent books at affordable rates.<br>
 
-Key Features<br>
--User-Friendly Interface:
-A clean and intuitive design built with FlutterFlow, ensuring smooth navigation for users of all ages.
-<br>
--Book Catalog:
-A well-organized collection of engineering books, categorized by subject and topic.
-Advanced search and filtering options to quickly find specific books.
-<br>
--Secure Authentication:
-Firebase Authentication supports secure login and registration through email.
-<br>
--Rental System:
-Flexible rental durations and pricing to suit the user's needs.
-<br>
--Payment Integration:
-Secure payment gateways to handle transactions efficiently.
-<br>
--Book Reviews and Ratings:
-Users can rate and review books to help others make informed decisions.
+<b>FlutterFlow simplifies integrating Firebase by providing no-code/low-code interface,auto-generating necessary configurations,and ensuring smooth deployment</b><br>
+<br><b>TECHSTACK USED</b><br>
+1. Front End : FlutterFlow
+2. Back End/Database : Firebase
 <br>
 Screen Shots of Mobile App:<br>
 <b>(1) Login Page:</b><br>
